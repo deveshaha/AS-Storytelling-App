@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Microcuentos</string>
+    <string name="tv_bienvenido">Bienvenido! Introduce tu nombre para ser el protagonista de los cuentos</string>
+    <string name="et_nombre">Introduce aqui tu nombre</string>
+    <string name="btn_empezar">Empezar</string>
+    <string name="no_nombre">Por favor Introduce un nombre</string>
+</resources>
