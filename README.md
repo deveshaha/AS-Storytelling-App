@@ -20,5 +20,3 @@ If you want to go back to the Story Selection activity, you can do so by clickin
 
 ##Screenshots
 
-![enter image description here](https://i.imgur.com/vilyN3C.png)
-![enter image description here](https://i.imgur.com/RK9yJQu.png)
