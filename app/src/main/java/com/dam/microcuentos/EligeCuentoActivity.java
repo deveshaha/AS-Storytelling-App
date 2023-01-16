@@ -34,12 +34,12 @@ public class EligeCuentoActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 int pos = rv.getChildAdapterPosition(view);
-                String nombre = getIntent().getStringExtra("nombre");
+//                String nombre = getIntent().getStringExtra("nombre");
 
                 Intent i = new Intent(EligeCuentoActivity.this, LeeCuentoActivity.class);
                 i.putExtra("titulo", datos.getListaCuentos().get(pos).getTitulo());
                 i.putExtra("texto", datos.getListaCuentos().get(pos).getTexto());
-                i.putExtra("nombre", nombre);
+//                i.putExtra("nombre", nombre);
                 startActivity(i);
             }
         });

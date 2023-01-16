@@ -18,7 +18,10 @@ public class LeeCuentoActivity extends AppCompatActivity {
         tv_texto_cuento = findViewById(R.id.tv_texto_cuento);
 
         tv_titulo_cuento.setText(getIntent().getStringExtra("titulo"));
-        String nombre = getIntent().getStringExtra("nombre");
+//        String nombre = getIntent().getStringExtra("nombre");
+//        tv_texto_cuento.setText(String.format(getIntent().getStringExtra("texto"), nombre));
+
+        String nombre = ((Microcuentos)getApplication()).getNombre();
         tv_texto_cuento.setText(String.format(getIntent().getStringExtra("texto"), nombre));
     }
 }

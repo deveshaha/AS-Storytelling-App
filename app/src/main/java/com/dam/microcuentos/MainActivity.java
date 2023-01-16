@@ -31,8 +31,10 @@ public class MainActivity extends AppCompatActivity {
                 if (nombre.isEmpty()){
                     Snackbar.make(view, "Debes introducir un nombre", Snackbar.LENGTH_LONG).show();
                 } else {
+//                  usamos el método setNombre de la clase Microcuentos para guardar el nombre del usuario
+                    ((Microcuentos)getApplication()).setNombre(nombre);
                     Intent i = new Intent(MainActivity.this, EligeCuentoActivity.class);
-                    i.putExtra("nombre", nombre);
+//                  i.putExtra("nombre", nombre);
                     startActivity(i);
                 }
             }
