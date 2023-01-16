@@ -17,3 +17,5 @@ You can select a story by clicking on the story title. Once selected, you will b
 The Story View activity is where you can read the story you have selected.
 
 If you want to go back to the Story Selection activity, you can do so by clicking on the "Back" button on your Android phone.
+
+![enter image description here](https://imgur.com/a/zafjGn2)
