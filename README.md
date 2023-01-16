@@ -18,4 +18,7 @@ The Story View activity is where you can read the story you have selected.
 
 If you want to go back to the Story Selection activity, you can do so by clicking on the "Back" button on your Android phone.
 
-![enter image description here](https://imgur.com/a/zafjGn2)
+##Screenshots
+
+![enter image description here](https://i.imgur.com/vilyN3C.png)
+![enter image description here](https://i.imgur.com/RK9yJQu.png)
