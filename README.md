@@ -1,4 +1,4 @@
-# Storytime App
+# Storytime App (Mejoras despues de la entrega)
 
 Welcome to the Storytime app, an android app designed to bring the magic of storytelling to your fingertips.
 
